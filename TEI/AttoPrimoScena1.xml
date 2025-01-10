@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled Document</title>
+            <author>Mark Saccomano</author>
+         </titleStmt>
+         <editionStmt>
+            <edition><date>2025-01-10T09:51:00</date></edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>no publication statement available</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Written by OpenOffice</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change><name/><date>2025-01-10T09:51:00</date></change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p rend="center">ATTO PRIMO</p>
+         <p rend="center">SCENA I</p>
+         <p rend="center">Parco delizioso sparso di folti boschetti. In ciascun de’ due lati è un
+            tempietto: su quello a sinistra vi si legge ¾ ALL’AMORE, su quello a dritta ¾ AL
+            DISPIACERE. Un banco di verdura è presso al primo: due cipressi nascondono in parte
+            l’ingresso del secondo</p>
+         <p rend="center"><hi rend="smallcaps">Fanny</hi><hi rend="italic"> è profondamente occupata
+               a disegnare seduta sul poggiuolo di verdura. Slancia di quando in quando il suo
+               furtivo sguardo d’intorno, per assicurarsi di non essere sorpresa, indi </hi><hi
+               rend="smallcaps">Madama Rivers</hi><hi rend="italic">, e </hi><hi rend="smallcaps"
+               >Geronio</hi><hi rend="italic"> seguiti da’ contadini</hi></p>
+         <table rend="frame" xml:id="Table1">
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Fan.</hi></cell>
+               <cell rend="start"> Immagine gradita</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">del ben che tanto adoro!</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">Mentre la man t’imita,</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">il pregio del lavoro</cell>
+            </row>
+            <row>
+               <cell rend="end">5</cell>
+               <cell/>
+               <cell rend="start">è solo del mio cor.</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start"> Egli offre in ogni istante</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">al fervido pensiere</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">l’amabil tuo sembiante,</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">che in lui già impresse Amor.</cell>
+            </row>
+            <row>
+               <cell rend="end">10</cell>
+               <cell/>
+               <cell rend="start"> Vien gente! ah mi dispiace! (<hi rend="italic">si
+                  alza</hi>)</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">Credea qui stare in pace...</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">nemica al mio disegno</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">sarai Fortuna ognor!</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Mad.</hi></cell>
+               <cell rend="start"> Amici, allegramente!</cell>
+            </row>
+            <row>
+               <cell rend="end">15</cell>
+               <cell/>
+               <cell rend="start">Adelson tornerà.</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Ger.</hi></cell>
+               <cell rend="start"> E a tanta buona gente</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">grato si mostrerà.</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Coro</hi></cell>
+               <cell rend="start"> Geronio! cosa dite?</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">Ci basta il suo ritorno:</cell>
+            </row>
+            <row>
+               <cell rend="end">20</cell>
+               <cell/>
+               <cell rend="start">ah! così lieto giorno</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">quando spuntar saprà!</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Fan.</hi></cell>
+               <cell rend="start"> Della sua sposa in seno</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">egli volar saprà.</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Mad.</hi></cell>
+               <cell rend="start"> E allor per noi sereno</cell>
+            </row>
+            <row>
+               <cell rend="end">25</cell>
+               <cell/>
+               <cell rend="start">il ciel risplenderà.</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Coro</hi></cell>
+               <cell rend="start"> Oh fortunati istanti</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">deh siate a noi vicini!</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">Che pranzi! che festini!</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">Che compagnia giuliva!</cell>
+            </row>
+            <row>
+               <cell rend="end">30</cell>
+               <cell/>
+               <cell rend="start">Il ciel de’ nostri evviva</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="start">ognor risuonerà!</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Ger.</hi></cell>
+               <cell rend="start"> Ah sì, godremo insieme</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Mad.</hi></cell>
+               <cell rend="start">Tanta felicità!</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Fan.</hi></cell>
+               <cell rend="start"> (Solo il mio cor, che geme,</cell>
+            </row>
+            <row>
+               <cell rend="end">35</cell>
+               <cell/>
+               <cell><p rend="start">pace sperar non sa.)</p></cell>
+            </row>
+         </table>
+         <table rend="frame" xml:id="Table2">
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Mad.</hi></cell>
+               <cell rend="start">Andate pure o miei cari: i voti, che vi anima sul labbro un
+                  affetto sincero, e che sapranno impetrare dal cielo il pronto ritorno di Milord,
+                  saranno pel suo cuore grato, e benefico tanti altri teneri oggetti, onde sempre
+                  più interessarlo a vostro vantaggio.</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell rend="end"><hi rend="italic"> </hi>(<hi rend="italic">viano i
+                  contadini</hi>)</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Fan.</hi></cell>
+               <cell rend="start">Oh! non ha egli bisogno di questo sprone, mia cara zia; amico, e
+                  conforto de’ suoi simili, padre de’ suoi soggetti, è solamente contento, quando
+                  con mano pietosa può impiegare le sue dovizie al soccorso della indigenza.</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Ger.</hi></cell>
+               <cell rend="start">Ma è poi vera la voce, che chiamato egli da Milord Duca zio alla
+                  corte di Londra, fosse obbligato a trattenervisi per qualche tempo?</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Mad.</hi></cell>
+               <cell rend="start">Non è possibile: ama troppo la sua Nelly. Se fu per costargli la
+                  vita la impreveduta perdita di lei, ora che un nume amico la rese a’ voti suoi,
+                  saprà egli troncare ogni ostacolo, che per poco potesse prolungargli il di lei
+                  sospirato possesso. </cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Fan.</hi></cell>
+               <cell rend="start">Fortunata Nelly! oh fosse al tuo uguale il destino di tutte
+                  quelle, che ti somigliano nella sensibilità, e nella costanza! </cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Mad.</hi></cell>
+               <cell rend="start">Olà! incauta! quali accenti! essi debbono esserti stranieri e per
+                  sempre.</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Fan.</hi></cell>
+               <cell rend="start">Perdonate... dir volea...</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Mad.</hi></cell>
+               <cell rend="start">Che l’unica tua cura debba esser quella di apprendere le tue
+                  lezioni, e proffittare delle amichevoli premure del tuo maestro Salvini, senza
+                  punto divagarti in frasi così leggere, e voluttuose.</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Fan.</hi></cell>
+               <cell rend="start">Ah! il mio maestro appunto...</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Mad.</hi></cell>
+               <cell rend="start">Non più, mi siegui: vado al fianco di Nelly: essa oltremodo è
+                  agitata: Adelson non le scrive da qualche settimana: io lo suppongo in viaggio:
+                  essa lo crede infedele, ed io per consolarla corro a dissipare i suoi ingiusti
+                  timori. (<hi rend="italic">via</hi>)</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Fan.</hi></cell>
+               <cell rend="start">(Amare, e tacere! oh! è una pena insoffribile!) (<hi rend="italic"
+                     >via</hi>)</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><hi rend="smallcaps">Ger.</hi></cell>
+               <cell rend="start">Son partite alla fine! non desiderava di meglio! Venisse adesso il
+                  Colonnello Struley! eccolo! puntuale all’appuntamento!</cell>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>
