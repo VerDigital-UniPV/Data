@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Atto Primo - Scena 3</title>
+            <author>Mark Saccomano</author>
+         </titleStmt>
+         <editionStmt>
+            <edition><date>2025-01-10</date></edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application xml:id="docxtotei" ident="TEI_fromDOCX" version="7.57.1">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change><date>2025-01-10T22:46:39Z</date><name>Mark Saccomano</name></change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p style="text-align: center;">SCENA III</p>
+         <p style="text-align: center;"><hi rend="smallcaps"
+               >Bonifacio</hi><hi rend="italic" xml:space="preserve"> dal lato opposto a quello dond’è partito </hi><hi
+               rend="smallcaps">Geronio</hi><hi rend="italic">. È incontrato da un portalettere, che
+               per fortuna gli domanda del suo nome medesimo: egli risponde</hi></p>
+         <table rend="rules">
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"><hi rend="smallcaps">Bon.</hi></cell>
+               <cell style="text-align: left;"> Bonifacio Voccafrolla?</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Lei l’ha in faccia, eccolo ccà.</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">C’è na lettera? <anchor type="commentRangeStart"
+                     n="0"/>uscia molla<anchor type="commentRangeEnd" n="0"/><hi
+                     rend="annotation_reference"><note place="comment" resp="#Microsoft_Office_User"
+                        n="0"><date when="2024-10-19T12:43:00Z"/>Verificare correttezza (credo debba
+                        essere “usciamolla”)</note></hi>...</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Comme dice? ho da sborzà?</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;">40</cell>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">No la voglio, tienetella...</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Sei scelline? e afforza? oh bella!</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Ca tu strille pierde il fiato!</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Lo vorzillo sta scopato,</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">a la fine de lo mese</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;">45</cell>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">te lo pozzo arremmedià.</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">(<hi rend="italic">il portalettere segna in un
+                     piccolo libro il suo nome, e via</hi>)</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;"> Manco male! e nzì ad Irlanna</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">chi da Napole me manna</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">le cervella a nfracetà? </cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">
+                  <anchor type="commentRangeStart" n="1"/>«Mastro <anchor type="commentRangeEnd"
+                     n="1"/><hi rend="annotation_reference"><note place="comment"
+                        resp="#Microsoft_Office_User" n="1"><date when="2024-10-21T11:23:00Z"
+                        />Controllare rientri (modificati rispetto al libretto)Può essere una cosa
+                        da integrare in TEI</note></hi>Tammaro Ossoduro...» (<hi rend="italic"
+                     >legge</hi>) </cell>
+            </row>
+            <row>
+               <cell style="text-align: right;">50</cell>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Oh! cainatemo! e che bò?</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">«Fuggi, e mettiti in sicuro...»</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Fujo? pecché? vedimmo mo...</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;"> «Donna Popa vuol l’importo</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">della tela accredenzata...»</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;">55</cell>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Cc<hi rend="background(yellow)">à</hi> ce manca
+                  l’ommo muorto</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">si la tela è consumata!</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">«Donn’Orazio fa fracasso</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">pel danar della pigione...»</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Le lassaje la casa a spasso,</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;">60</cell>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">e che b<hi rend="background(yellow)">ò</hi>
+                  st’animalone?</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">«Fa rumore il macellaio,</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">grida, e insiste il calzolaio,</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">la sensale tutt’i pegni</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">vuol far vendere all’incanto:</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;">65</cell>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">fuggi dico, ci son guai,</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">si è saputo dove stai,</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">ed io temo, che a quest’ora</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">qualche ufficio sia già fuora</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">per poterti imprigionar.»</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;">70</cell>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;"> Ma che anime indiscrete!</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Vonno zuco da le prete!</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">E non sanno, che a lo munno</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">da che il debito c’è stato,</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">sempre il mutto ha trionfato,</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;">75</cell>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">che non paga chi non ha.</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;"> Che me mettono ngajola,</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">m’hanno appriesso da campà.</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;"> Mo vedimmo chi se stracqua</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">creditori iniqui, e avari:</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;">80</cell>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">a cercarme vuje danari,</cell>
+            </row>
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">e io sempe a non pagà.</cell>
+            </row>
+         </table>
+         <table rend="rules">
+            <row>
+               <cell style="text-align: right;"/>
+               <cell style="text-align: left;"/>
+               <cell style="text-align: left;">Ora a me a Napole lo debeto me l’ordinaje lo miedeco,
+                  pè ajutà la digestione: e sa che bella ginnastica aveva da fa pè scanzarme sempe
+                  dagl’immancabili appostatori! ahù! Don Bonifà? mercante de salumme abbascio a la
+                  dogana! curribule, e capriol<anchor type="commentRangeStart" n="2"/>è<anchor
+                     type="commentRangeEnd" n="2"/><hi rend="annotation_reference"><note
+                        place="comment" resp="#Microsoft_Office_User" n="2"><date
+                           when="2024-10-19T12:54:00Z"/>Scritto così, ma mi domando se non sia un
+                        refuso.</note></hi> da ccà, fratielle smesteture, e gnore traseticce da
+                  llà... e tu sempe sbenave? ciuccio! te credive, ch’era pazzo?<anchor
+                     type="commentRangeStart" n="3"/><note place="foot" xml:id="ftn1" n="1"><p
+                        rend="footnote text">
+                        <hi rend="bold">NA</hi><hi rend="bold superscript">1816</hi>:
+                     «puzzo?».</p></note><anchor type="commentRangeEnd" n="3"/><hi
+                     rend="annotation_reference"><note place="comment" resp="#Microsoft_Office_User"
+                        n="3"><date when="2025-01-05T11:58:00Z"/>Mark, in the printed edition this
+                        is a footnote signaling what appears in the printed libretto and has been
+                        corrected in the edition. In the digital format, we could have a critical
+                        note linked to the word in the edition.</note></hi> e schiatta mo si vaje
+                  fujenno, e faje lo settescorza... mo che torna Milord lo patrone, le conto li
+                  guaje mieje: o isso, ch’è tanto sbenneto, me sarva da sta piccola bagattella, o
+                  attacco la mia muta a doje gamme, e me ne scappo Nsiberia. Llà <anchor
+                     type="commentRangeStart" n="4"/>po’<anchor type="commentRangeEnd" n="4"/><hi
+                     rend="annotation_reference"><note place="comment" resp="#Microsoft_Office_User"
+                        n="4"><date when="2024-10-19T12:57:00Z"/>Correggerei in “po'” (anche per
+                        distinguere graficamente dall’abbreviazione di “poco”)</note></hi> c’è lo
+                  maresciallo Jelo, che ne caccia tutte li crediture: ma vecco lo pittore! e pè la
+                  fine dell’opera chisto m’ha strascenato da Romma nzì a cc<hi
+                     rend="background(yellow)">à</hi> co isso p’avè no taliano fedele a fianco sujo.
+                  Milord, che le vo tanto bene, me paga comme stesse co isso, e a me fratanto
+                  attocca de perdere la capo co sto pazzo nnammorato, che se pasce d’aria! e
+                  stammatina la cemmenera ha pigliato fuoco addavero, ca tene l’uocchie cchiù
+                  sbotate de lo soleto! </cell>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>
